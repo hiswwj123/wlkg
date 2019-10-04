@@ -1,0 +1,28 @@
+spring:
+  application:
+    name: search-service
+  jackson:
+    default-property-inclusion: non_null
+  data:
+    elasticsearch:
+      cluster-name: elasticsearch
+      cluster-nodes: 192.168.237.66:9300
+  rabbitmq:
+    host: 192.168.237.66
+    username: wlkg
+    password: wlkg
+    virtual-host: /wlkg
+
+server:
+  port: 8093
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:10086/eureka
+  instance:
+    lease-expiration-duration-in-seconds: 5
+    lease-renewal-interval-in-seconds: 10
+    prefer-ip-address: true
+    ip-address: 127.0.0.1
+    instance-id: ${spring.application.name}:${server.port}

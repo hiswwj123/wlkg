@@ -1,0 +1,1286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae27433a-d4e5-499a-b486-51cecf866755" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/wlkg-item/wlkg-item-interface/target/" />
+    <ignored path="$PROJECT_DIR$/wlkg-item/target/" />
+    <ignored path="$PROJECT_DIR$/wlkg-common/target/" />
+    <ignored path="$PROJECT_DIR$/wlkg-api-gateway/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/wlkg-registry/target/" />
+    <ignored path="$PROJECT_DIR$/wlkg-item/wlkg-item-service/target/" />
+    <ignored path="$PROJECT_DIR$/wlkg-upload/target/" />
+    <ignored path="$PROJECT_DIR$/wlkg-search/target/" />
+    <ignored path="$PROJECT_DIR$/wlkg-goods-page/target/" />
+    <ignored path="$PROJECT_DIR$/wlkg-sms/target/" />
+    <ignored path="$PROJECT_DIR$/wlkg-user/target/" />
+    <ignored path="$PROJECT_DIR$/wlkg-user/wlkg-user-interface/target/" />
+    <ignored path="$PROJECT_DIR$/wlkg-user/wlkg-user-service/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="wlkg" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wlkg-user/wlkg-user-interface/src/main/java/com/wlkg/user/pojo/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wlkg-user/wlkg-user-service/src/main/java/com/wlkg/user/controller/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../wlkg-portal/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="124" column="43" selection-start-line="124" selection-start-column="43" selection-end-line="124" selection-end-column="43" />
+              <folding>
+                <element signature="e#2036#2042#0" expanded="true" />
+                <element signature="e#2042#2048#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wlkg-sms/src/main/java/com/sms/utils/SmsUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="426">
+              <caret line="57" column="28" selection-start-line="57" selection-start-column="28" selection-end-line="57" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wlkg-sms/src/test/java/com/wlkg/test/SmsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="452">
+              <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wlkg-user/wlkg-user-service/src/main/java/com/wlkg/user/service/UserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4152">
+              <caret line="196" column="9" selection-start-line="196" selection-start-column="9" selection-end-line="196" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#checkUserExist#0;class#UserService#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wlkg-user/wlkg-user-service/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1560">
+              <caret line="65" selection-start-line="65" selection-end-line="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wlkg-common/src/main/java/com/wlkg/common/enums/ExceptionEnums.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>p</find>
+      <find>attr</find>
+      <find>type</find>
+      <find>t</find>
+      <find>name</find>
+      <find>skus</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/wlkg-item/wlkg-item-service/src/main/java/com/wlkg/controller/CategoryController.java" />
+        <option value="$PROJECT_DIR$/wlkg-item/wlkg-item-service/src/main/java/com/wlkg/service/CategoryService.java" />
+        <option value="$PROJECT_DIR$/wlkg-item/wlkg-item-service/src/main/java/com/wlkg/controller/SpecificationController.java" />
+        <option value="$PROJECT_DIR$/wlkg-item/wlkg-item-interface/src/main/java/com/wlkg/item/api/SpecificationAPI.java" />
+        <option value="$PROJECT_DIR$/wlkg-goods-page/src/main/java/com/wlkg/goods/client/BrandClient.java" />
+        <option value="$PROJECT_DIR$/wlkg-goods-page/src/main/java/com/wlkg/goods/client/CategoryClient.java" />
+        <option value="$PROJECT_DIR$/wlkg-goods-page/src/main/java/com/wlkg/goods/client/GoodsClient.java" />
+        <option value="$PROJECT_DIR$/wlkg-goods-page/src/main/java/com/wlkg/goods/client/SpecificationClient.java" />
+        <option value="$PROJECT_DIR$/wlkg-item/wlkg-item-interface/src/main/java/com/wlkg/item/api/GoodsApi.java" />
+        <option value="$PROJECT_DIR$/wlkg-goods-page/src/test/java/PageServiceTest.java" />
+        <option value="$PROJECT_DIR$/wlkg-item/wlkg-item-interface/src/main/java/com/wlkg/item/pojo/SpecGroup.java" />
+        <option value="$PROJECT_DIR$/wlkg-item/wlkg-item-service/src/main/java/com/wlkg/service/SpecificationService.java" />
+        <option value="$PROJECT_DIR$/wlkg-goods-page/src/main/resources/templates/item.html" />
+        <option value="$PROJECT_DIR$/wlkg-goods-page/src/main/java/com/wlkg/goods/utils/ThreadUtils.java" />
+        <option value="$PROJECT_DIR$/wlkg-goods-page/src/main/java/com/wlkg/goods/controller/GoodsController.java" />
+        <option value="$PROJECT_DIR$/wlkg-item/wlkg-item-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/wlkg-item/wlkg-item-service/src/main/java/com/wlkg/controller/GoodsController.java" />
+        <option value="$PROJECT_DIR$/wlkg-item/wlkg-item-service/pom.xml" />
+        <option value="$PROJECT_DIR$/wlkg-search/pom.xml" />
+        <option value="$PROJECT_DIR$/wlkg-item/wlkg-item-service/src/main/java/com/wlkg/service/GoodsService.java" />
+        <option value="$PROJECT_DIR$/wlkg-search/src/main/java/com/wlkg/service/SearchService.java" />
+        <option value="$PROJECT_DIR$/wlkg-search/src/main/java/com/wlkg/listener/GoodsListener.java" />
+        <option value="$PROJECT_DIR$/wlkg-goods-page/pom.xml" />
+        <option value="$PROJECT_DIR$/wlkg-goods-page/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/wlkg-goods-page/src/main/java/com/wlkg/goods/listener/GoodsListener.java" />
+        <option value="$PROJECT_DIR$/wlkg-goods-page/src/main/java/com/wlkg/goods/service/PageService.java" />
+        <option value="$PROJECT_DIR$/wlkg-goods-page/src/main/java/com/wlkg/goods/WlkgGoodsPage.java" />
+        <option value="$PROJECT_DIR$/wlkg-search/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/wlkg-search/src/main/java/com/wlkg/utils/JsonUtils.java" />
+        <option value="$PROJECT_DIR$/wlkg-sms/src/main/java/com/sms/WlkgSmSApplication.java" />
+        <option value="$PROJECT_DIR$/wlkg-sms/src/main/java/com/sms/pojo/SmsProperties.java" />
+        <option value="$PROJECT_DIR$/wlkg-sms/pom.xml" />
+        <option value="$PROJECT_DIR$/wlkg-sms/src/main/java/com/sms/utils/SmsUtils.java" />
+        <option value="$PROJECT_DIR$/wlkg-api-gateway/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/wlkg-user/pom.xml" />
+        <option value="$PROJECT_DIR$/wlkg-sms/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/wlkg-user/wlkg-user-interface/src/main/java/com/wlkg/user/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/wlkg-user/wlkg-user-service/src/main/java/com/wlkg/user/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/wlkg-user/wlkg-user-service/src/main/java/com/wlkg/user/WlkgUserServiceApplication.java" />
+        <option value="$PROJECT_DIR$/wlkg-common/src/main/java/com/wlkg/common/utils/CodecUtils.java" />
+        <option value="$PROJECT_DIR$/wlkg-user/wlkg-user-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/wlkg-sms/src/main/java/com/sms/com/listener/SmsListener.java" />
+        <option value="$PROJECT_DIR$/../wlkg-portal/register.html" />
+        <option value="$PROJECT_DIR$/wlkg-user/wlkg-user-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/wlkg-user/wlkg-user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/wlkg-common/src/main/java/com/wlkg/common/enums/ExceptionEnums.java" />
+        <option value="$PROJECT_DIR$/wlkg-user/wlkg-user-interface/src/main/java/com/wlkg/user/pojo/User.java" />
+        <option value="$PROJECT_DIR$/../wlkg-portal/login.html" />
+        <option value="$PROJECT_DIR$/wlkg-user/wlkg-user-service/src/main/java/com/wlkg/user/service/UserService.java" />
+        <option value="$PROJECT_DIR$/wlkg-user/wlkg-user-service/src/main/java/com/wlkg/user/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/wlkg-sms/src/test/java/com/wlkg/test/SmsTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="G:/maven/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="G:\maven\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="wlkg-user-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-43" />
+    <option name="y" value="10" />
+    <option name="width" value="1944" />
+    <option name="height" value="1103" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="wlkg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wlkg" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wlkg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wlkg" type="462c0819:PsiDirectoryNode" />
+              <item name="wlkg-api-gateway" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wlkg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wlkg" type="462c0819:PsiDirectoryNode" />
+              <item name="wlkg-api-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wlkg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wlkg" type="462c0819:PsiDirectoryNode" />
+              <item name="wlkg-api-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wlkg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wlkg" type="462c0819:PsiDirectoryNode" />
+              <item name="wlkg-sms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wlkg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wlkg" type="462c0819:PsiDirectoryNode" />
+              <item name="wlkg-sms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wlkg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wlkg" type="462c0819:PsiDirectoryNode" />
+              <item name="wlkg-sms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wlkg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wlkg" type="462c0819:PsiDirectoryNode" />
+              <item name="wlkg-sms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wlkg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wlkg" type="462c0819:PsiDirectoryNode" />
+              <item name="wlkg-sms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wlkg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wlkg" type="462c0819:PsiDirectoryNode" />
+              <item name="wlkg-sms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sms" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wlkg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wlkg" type="462c0819:PsiDirectoryNode" />
+              <item name="wlkg-sms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wlkg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wlkg" type="462c0819:PsiDirectoryNode" />
+              <item name="wlkg-sms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wlkg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wlkg" type="462c0819:PsiDirectoryNode" />
+              <item name="wlkg-sms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wlkg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wlkg" type="462c0819:PsiDirectoryNode" />
+              <item name="wlkg-sms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wlkg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wlkg" type="462c0819:PsiDirectoryNode" />
+              <item name="wlkg-user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wlkg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wlkg" type="462c0819:PsiDirectoryNode" />
+              <item name="wlkg-user" type="462c0819:PsiDirectoryNode" />
+              <item name="wlkg-user-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wlkg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wlkg" type="462c0819:PsiDirectoryNode" />
+              <item name="wlkg-user" type="462c0819:PsiDirectoryNode" />
+              <item name="wlkg-user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wlkg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wlkg" type="462c0819:PsiDirectoryNode" />
+              <item name="wlkg-user" type="462c0819:PsiDirectoryNode" />
+              <item name="wlkg-user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wlkg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wlkg" type="462c0819:PsiDirectoryNode" />
+              <item name="wlkg-user" type="462c0819:PsiDirectoryNode" />
+              <item name="wlkg-user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wlkg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wlkg" type="462c0819:PsiDirectoryNode" />
+              <item name="wlkg-user" type="462c0819:PsiDirectoryNode" />
+              <item name="wlkg-user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wlkg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wlkg" type="462c0819:PsiDirectoryNode" />
+              <item name="wlkg-user" type="462c0819:PsiDirectoryNode" />
+              <item name="wlkg-user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wlkg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wlkg" type="462c0819:PsiDirectoryNode" />
+              <item name="wlkg-user" type="462c0819:PsiDirectoryNode" />
+              <item name="wlkg-user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wlkg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wlkg" type="462c0819:PsiDirectoryNode" />
+              <item name="wlkg-user" type="462c0819:PsiDirectoryNode" />
+              <item name="wlkg-user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wlkg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wlkg-portal" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/wlkg-common/src/main/java/com/wlkg/common/utils" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wlkg.mapper" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\IDEA02\wlkg\wlkg-common\src\main\java\com\wlkg\common\utils" />
+      <recent name="F:\IDEA02\wlkg\wlkg-goods-page\src\main\resources\templates" />
+      <recent name="F:\IDEA02\wlkg\wlkg-common\src\main\java\com\wlkg\common\enums" />
+      <recent name="E:\idea workspace\wlkg\wlkg-search\src\main\java\com\wlkg\service" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.1880109" />
+  </component>
+  <component name="RunManager" selected="JUnit.SmsTest.sendTest">
+    <configuration name="JunitTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wlkg-search" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wlkg.search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wlkg.search" />
+      <option name="MAIN_CLASS_NAME" value="com.wlkg.search.JunitTest" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PageServiceTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wlkg-goods-page" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PageServiceTest" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmsTest.sendTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wlkg-sms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wlkg.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wlkg.test" />
+      <option name="MAIN_CLASS_NAME" value="com.wlkg.test.SmsTest" />
+      <option name="METHOD_NAME" value="sendTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WlkgApiGateWay" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="wlkg-api-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wlkg.WlkgApiGateWay" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WlkgGoodsPage" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="wlkg-goods-page" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wlkg.goods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wlkg.goods.WlkgGoodsPage" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WlkgItemService" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="wlkg-item-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wlkg.WlkgItemService" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WlkgRegistry" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="wlkg-registry" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wlkg.WlkgRegistry" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WlkgSearchService" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="wlkg-search" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wlkg.WlkgSearchService" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WlkgSmSApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="wlkg-sms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sms.WlkgSmSApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WlkgUpload " type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="wlkg-upload" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wlkg.WlkgUpload" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WlkgUserServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="wlkg-user-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wlkg.user.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wlkg.user.WlkgUserServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SmsTest.sendTest" />
+        <item itemvalue="Spring Boot.WlkgUserServiceApplication" />
+        <item itemvalue="Spring Boot.WlkgGoodsPage" />
+        <item itemvalue="JUnit.PageServiceTest.test01" />
+        <item itemvalue="JUnit.JunitTest.test01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae27433a-d4e5-499a-b486-51cecf866755" name="Default Changelist" comment="" />
+      <created>1567956280428</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567956280428</updated>
+      <workItem from="1567956282803" duration="734000" />
+      <workItem from="1567957024074" duration="3366000" />
+      <workItem from="1567988894913" duration="16938000" />
+      <workItem from="1568073628976" duration="22280000" />
+      <workItem from="1568160516842" duration="1871000" />
+      <workItem from="1568169386128" duration="18461000" />
+      <workItem from="1568247023661" duration="6263000" />
+      <workItem from="1568275957639" duration="168000" />
+      <workItem from="1568280539560" duration="2957000" />
+      <workItem from="1568285483936" duration="203000" />
+      <workItem from="1568365962224" duration="1207000" />
+      <workItem from="1568440659815" duration="9381000" />
+      <workItem from="1568549932528" duration="3730000" />
+      <workItem from="1568592753888" duration="2208000" />
+      <workItem from="1568602726410" duration="8967000" />
+      <workItem from="1568681922686" duration="24138000" />
+      <workItem from="1568766317894" duration="2348000" />
+      <workItem from="1568771338457" duration="28000" />
+      <workItem from="1568874884092" duration="33000" />
+      <workItem from="1568962220407" duration="36000" />
+      <workItem from="1569204399974" duration="1768000" />
+      <workItem from="1569209036645" duration="582000" />
+      <workItem from="1569209724579" duration="32321000" />
+      <workItem from="1569282774270" duration="3550000" />
+      <workItem from="1569304675009" duration="121000" />
+      <workItem from="1569304802870" duration="28810000" />
+      <workItem from="1569366568084" duration="6265000" />
+      <workItem from="1569462844699" duration="3629000" />
+      <workItem from="1569468745708" duration="348000" />
+      <workItem from="1569469149857" duration="10965000" />
+      <workItem from="1569550432170" duration="35000" />
+      <workItem from="1569550852505" duration="10686000" />
+      <workItem from="1569583881398" duration="5205000" />
+      <workItem from="1569650352494" duration="455000" />
+      <workItem from="1569650832921" duration="19006000" />
+      <workItem from="1569756586230" duration="1145000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="GoodsRepositoryTest_loadData - 2019.09.23 at 22h 32m 17s.xml">
+      <configuration name="GoodsRepositoryTest.loadData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JunitTest_test01 - 2019.09.24 at 14h 54m 04s.xml">
+      <configuration name="JunitTest.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PageServiceTest_test01 - 2019.09.24 at 22h 46m 32s.xml">
+      <configuration name="PageServiceTest.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PageServiceTest_test01 - 2019.09.24 at 22h 47m 29s.xml">
+      <configuration name="PageServiceTest.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PageServiceTest_test01 - 2019.09.24 at 23h 00m 40s.xml">
+      <configuration name="PageServiceTest.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SmsTest_sendTest - 2019.09.27 at 20h 50m 18s.xml">
+      <configuration name="SmsTest.sendTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SmsTest_sendTest - 2019.09.27 at 20h 51m 12s.xml">
+      <configuration name="SmsTest.sendTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SmsTest_sendTest - 2019.09.27 at 20h 52m 02s.xml">
+      <configuration name="SmsTest.sendTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SmsTest_sendTest - 2019.09.27 at 20h 55m 52s.xml">
+      <configuration name="SmsTest.sendTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SmsTest_sendTest - 2019.09.29 at 19h 36m 35s.xml">
+      <configuration name="SmsTest.sendTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="250208000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49926144" visible="true" weight="0.26206434" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50073856" side_tool="true" weight="0.2613941" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24450952" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Run Dashboard" order="6" sideWeight="0.49776453" weight="0.6573939" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.329429" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.38945827" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5022355" side_tool="true" weight="0.44169095" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.44979367" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.26804814" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3297587" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.366617" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49926144" visible="true" weight="0.1985294" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50073856" side_tool="true" weight="0.2613941" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3660322" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Run Dashboard" order="6" sideWeight="0.49776453" visible="true" weight="0.47156727" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.329429" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.38945827" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5022355" side_tool="true" weight="0.44169095" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.2635432" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.2680965" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3297587" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.366617" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/wlkg-search/src/main/java/com/wlkg/service/SearchService.java</url>
+          <line>143</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.0.9.RELEASE/spring-data-commons-2.0.9.RELEASE-sources.jar!/org/springframework/data/repository/CrudRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlkg-goods-page/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="49" column="37" selection-start-line="49" selection-start-column="37" selection-end-line="49" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlkg-goods-page/src/main/java/com/wlkg/goods/service/PageService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="146" column="30" selection-start-line="146" selection-start-column="30" selection-end-line="146" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3853#3854#0" expanded="true" />
+            <element signature="e#3904#3905#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlkg-search/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/develop/java/jdk1.8/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="211" column="6" selection-start-line="211" selection-start-column="6" selection-end-line="211" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlkg-item/wlkg-item-service/src/main/java/com/wlkg/service/GoodsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="181" column="23" selection-start-line="181" selection-start-column="23" selection-end-line="181" selection-end-column="23" />
+          <folding>
+            <element signature="method#querySpuByPageAndSort#0;class#GoodsService#0" />
+            <element signature="method#querySkuBySpuId#0;class#GoodsService#0" />
+            <element signature="docComment;method#saveSkuAndStock#0;class#GoodsService#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlkg-goods-page/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlkg-goods-page/src/main/java/com/wlkg/goods/WlkgGoodsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlkg-goods-page/src/main/java/com/wlkg/goods/listener/GoodsListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1128">
+          <caret line="47" column="27" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wlkg-portal/home-order-receive.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="25" column="13" selection-start-line="20" selection-start-column="4" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlkg-search/src/main/java/com/wlkg/utils/JsonUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11">
+          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlkg-api-gateway/src/main/java/com/wlkg/config/GlobalCorsConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlkg-search/src/main/java/com/wlkg/service/SearchService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="143" selection-start-line="143" selection-end-line="143" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlkg-search/src/main/java/com/wlkg/pojo/Goods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlkg-search/src/main/java/com/wlkg/controller/SearchController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlkg-search/src/main/java/com/wlkg/listener/GoodsListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlkg-search/src/main/java/com/wlkg/WlkgSearchService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+          <folding>
+            <element signature="e#418#419#0" expanded="true" />
+            <element signature="e#486#487#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25-sources.jar!/org/slf4j/LoggerFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="381" column="25" selection-start-line="381" selection-start-column="25" selection-end-line="381" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlkg-sms/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="34" column="46" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlkg-sms/src/main/java/com/sms/pojo/SmsProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlkg-item/wlkg-item-service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlkg-item/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-183" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlkg-item/wlkg-item-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="35" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlkg-user/wlkg-user-interface/src/main/java/com/wlkg/user/pojo.java" />
+    <entry file="file://$PROJECT_DIR$/wlkg-user/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlkg-sms/src/main/java/com/sms/WlkgSmSApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+            <element signature="e#375#376#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlkg-item/wlkg-item-interface/src/main/java/com/wlkg/item/pojo/Sku.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlkg-user/wlkg-user-interface/src/main/java/com/wlkg/user/mapper/UserMapper.java" />
+    <entry file="file://$PROJECT_DIR$/wlkg-user/wlkg-user-service/src/main/java/com/wlkg/user/service.java" />
+    <entry file="file://$PROJECT_DIR$/wlkg-user/wlkg-user-service/src/main/java/com/wlkg/user/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlkg-user/wlkg-user-service/src/main/java/com/wlkg/user/WlkgUserServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlkg-common/src/main/java/com/wlkg/common/utils/NumberUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.7/commons-lang3-3.7-sources.jar!/org/apache/commons/lang3/StringUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="5402" column="25" selection-start-line="5402" selection-start-column="25" selection-end-line="5402" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlkg-common/src/main/java/com/wlkg/common/utils/CodecUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="23" column="65" selection-start-line="23" selection-start-column="65" selection-end-line="23" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#678#679#0" expanded="true" />
+            <element signature="e#759#760#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlkg-registry/src/main/java/com/wlkg/WlkgRegistry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wlkg-portal/js/validate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="3545" column="20" lean-forward="true" selection-start-line="3545" selection-start-column="20" selection-end-line="3545" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlkg-sms/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="60" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlkg-sms/src/main/java/com/sms/com/listener/SmsListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="31" column="49" lean-forward="true" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlkg-api-gateway/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlkg-user/wlkg-user-service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlkg-user/wlkg-user-interface/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wlkg-portal/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="202" column="87" selection-start-line="202" selection-start-column="83" selection-end-line="202" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlkg-user/wlkg-user-interface/src/main/java/com/wlkg/user/pojo/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlkg-user/wlkg-user-service/src/main/java/com/wlkg/user/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4152">
+          <caret line="196" column="9" selection-start-line="196" selection-start-column="9" selection-end-line="196" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#checkUserExist#0;class#UserService#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlkg-user/wlkg-user-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1560">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlkg-common/src/main/java/com/wlkg/common/enums/ExceptionEnums.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlkg-user/wlkg-user-service/src/main/java/com/wlkg/user/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wlkg-portal/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="124" column="43" selection-start-line="124" selection-start-column="43" selection-end-line="124" selection-end-column="43" />
+          <folding>
+            <element signature="e#2036#2042#0" expanded="true" />
+            <element signature="e#2042#2048#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlkg-sms/src/main/java/com/sms/utils/SmsUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="57" column="28" selection-start-line="57" selection-start-column="28" selection-end-line="57" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wlkg-sms/src/test/java/com/wlkg/test/SmsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>wlkg-common</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

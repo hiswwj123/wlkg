@@ -1,0 +1,32 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.sms.pojo.SmsProperties",
+      "name": "wlkg.sms",
+      "type": "com.sms.pojo.SmsProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.sms.pojo.SmsProperties",
+      "name": "wlkg.sms.access-key-id",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.sms.pojo.SmsProperties",
+      "name": "wlkg.sms.access-key-secret",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.sms.pojo.SmsProperties",
+      "name": "wlkg.sms.sign-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.sms.pojo.SmsProperties",
+      "name": "wlkg.sms.verify-code-template",
+      "type": "java.lang.String"
+    }
+  ]
+}
